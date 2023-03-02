@@ -106,36 +106,11 @@ Author: [Aristotle Jalalianfard](https://github.com/n0kam1)
 
 <img src="./assets/search.gif" height="600">
 
-#### Highlighted Features
-- fill in
-
-##### Subheading: (if you want to talk about a feature of the page/your work)
-
-- notes
-- notes
-
-##### Subheading2: (another feature of page)
-
-- notes
-- notes
-
 ## Add Items Screen
 Author: [Kyle Robers](https://github.com/kylrober)
 
 <img src="./assets/addItem.gif" height="600">
 
-#### Highlighted Features
-- fill in
-
-##### Subheading: (if you want to talk about a feature of the page/your work)
-
-- notes
-- notes
-
-##### Subheading2: (another feature of page)
-
-- notes
-- notes
 -------------------------------------------
 ### More Demo Clips
 
